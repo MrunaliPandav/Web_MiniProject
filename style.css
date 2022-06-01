@@ -1,0 +1,21 @@
+employers {
+	color: black;
+	background-color : white;
+	width: 100%; 
+	text-align: center;
+}
+heading {
+	color: deeppink;
+	font-weight: bold;
+	font-size : 40px;
+	background-color : white;
+	text-align: center;
+}
+heading, title, surname,place,college,dob { 
+	padding-top: 30px;
+	display : block;
+}
+title {
+	font-size : 20px;
+	font-weight : bold;
+}
